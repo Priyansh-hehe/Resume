@@ -1,4 +1,4 @@
-# Hi, I'm Priyansh Paliwal 👋
+# Hi, I'm Priyansh Paliwal 
 
 🎓 B.Tech CSE student at **VIT Bhopal University**  
 💻 Interested in **Software Engineering, Full-Stack Development, AI/ML, and Data Engineering**
